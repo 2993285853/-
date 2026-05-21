@@ -1,1 +1,2 @@
-ragagrvraggd
+#include<stdio.h>
+printf
